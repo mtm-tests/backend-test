@@ -45,6 +45,12 @@ How you do this is completely up to you. By way of example, a reasonable working
 }
 ```
 
+When you're happy with your solution, please add a simple README.md with
+ 1) what you wanted to do but didnt have time to,
+ 2) summarise what tradeoffs you made,
+ 3) what you would do differently / better in retrospect
+
+
 ## Things to be aware of
 - The format of the response you send is up to you (the front-end has not been built yet). You should aim to return the data in a format that the front-end dev can make use of easily
 - We don't expect heavy traffic to this API - current estimates cap at 1000 customers concurrently searching.
