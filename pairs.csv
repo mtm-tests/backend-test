@@ -1,4 +1,4 @@
-Personal Data Category , Internal
+Personal Data , Internal
 Internal , Authenticating
 Authenticating , PINCode
 Authenticating , Password
@@ -18,7 +18,7 @@ Internal , Knowledge Belief
 Knowledge Belief , Philosophical Belief
 Knowledge Belief , Religious Belief
 Knowledge Belief , Thought
-Personal Data Category , External
+Personal Data , External
 External , Physical Characteristic
 Physical Characteristic , Age
 Physical Characteristic , Gender
@@ -72,7 +72,7 @@ Sexual , Fetish
 Sexual , Proclivitie
 Sexual , Sexual History
 Sexual , Sexual Preference
-Personal Data Category , Special Category Personal Data
+Personal Data , Special Category Personal Data
 Special Category Personal Data , Biometric
 Biometric , Fingerprint
 Biometric , Retina
@@ -100,7 +100,7 @@ Special Category Personal Data , Political Affiliation
 Special Category Personal Data , Race
 Special Category Personal Data , Religion
 Special Category Personal Data , Religious Belief
-Personal Data Category , Social
+Personal Data , Social
 Social , Social Network
 Social Network , Acquantaince
 Social Network , Association
@@ -144,7 +144,7 @@ Family Structure , Offspring
 Family Structure , Parent
 Family Structure , Sibling
 Family , Relationship
-Personal Data Category , Tracking
+Personal Data , Tracking
 Tracking , Device Based
 Device Based , Browser Fingerprint
 Device Based , Address
@@ -157,7 +157,7 @@ Tracking , Location
 Location , Country
 Location , Coordinate
 Location , Room Number
-Personal Data Category , Financial
+Personal Data , Financial
 Financial , Financial Account
 Financial Account , Account Identifier
 Account Identifier , Credit Card Number
@@ -188,6 +188,6 @@ Transactional , Purchases And Spending Habit
 Transactional , Sale
 Transactional , Tax
 Transactional , Transaction
-Personal Data Category , Derived Personal Data
-Personal Data Category , Historical
+Personal Data , Derived Personal Data
+Personal Data , Historical
 Historical , Life History
